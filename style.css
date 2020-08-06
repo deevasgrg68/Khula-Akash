@@ -11,13 +11,13 @@ html {
     }
 
   h1 {
-    font-size: 3rem;
+    font-size: 2rem;
     opacity: 0.8;
     transition: ease-in-out 1.5s;
      }
 
   h1:hover {
-    font-size: 4rem;
+    font-size: 3rem;
     opacity: 0.8;
   }
      
